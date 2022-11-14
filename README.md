@@ -2,7 +2,9 @@
 
 ```bash
 npm install
-npm run start
+npm run dev
+npm run build
 ```
+move dist/client to dist/server
 
 http://localhost:8080
