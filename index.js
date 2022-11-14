@@ -10,5 +10,5 @@ app.listen(app.get('port'), function(err) {
   if (err) {
     console.log(err);
   } else {
-    console.log('Running on port: ' + app.get('port')); }
+    console.log('Running on: http://localhost:' + app.get('port')); }
 });
